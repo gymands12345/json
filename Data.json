@@ -1,0 +1,8 @@
+{"students":
+    [
+      {"name":"Gyle Patrick Lukinhay", "age":21, "isEnrolled":false},
+      {"name":"Mark Cepranco", "age":22, "isEnrolled":true},
+      {"name":"Juandel Tiu", "age":21, "isEnrolled":true},
+      {"name":"Marco Khu", "age":20, "isEnrolled":false}
+    ]
+}
